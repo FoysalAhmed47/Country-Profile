@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">CountryProfile</string>
+    <string name="bangladesh_button">Bangladesh</string>
+    <string name="india_button">India</string>
+    <string name="pakistan_button">Pakistan</string>
+    <string name="bhutan_button">Bhutan</string>
+    <string name="nepal_button">Nepal</string>
+    <string name="srilanka_button">Sri-Lanka</string>
+    <string name="maldives_button">Maldive</string>
+    <string name="afghanistan_button">Afghanistan</string>
+
+
+    <string name="bangladesh_text">
+        Jatiya Sangsad Bhaban or National Parliament House, is the house of the Parliament of Bangladesh,
+        located at Sher-e-Bangla Nagar in the Bangladeshi capital of Dhaka. Designed by architect
+        Louis Kahn, the complex is one of the largest legislative complexes in the world, comprising 200 acres.
+        Address: Dhaka 1207
+        Hours:
+        Open-Closes 5:30PM
+        Construction started: 1961
+        Architects: Louis Kahn, Muzharul Islam
+        Architectural styles: Brutalist architecture, Modern architecture
+        Did you know: After its completion on 28 January 1982, Jatiyo Sangsad Bhaban was used for the first time on 15th February
+        1982 as the venue for the eighth, and last, session of the second parliament of Bangladesh. bangladesh.com
+
+    </string>
+
+
+    <string name="india_text">
+
+        The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra.
+        It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favourite wife, Mumtaz Mahal.
+        It also houses the tomb of Shah Jahan, the builder. Wikipedia
+        Address: Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India
+        Construction started: 1632
+        Height: 73 m
+        Opened: 1648
+        Architects: Ustad Ahmad Lahouri, Ustad Isa
+        Did you know: 28 different types of stones were used to make the Taj Mahal. othersopinion.com
+
+    </string>
+
+
+    <string name="pakistan_text">
+
+        The Parliament of Pakistan is the federal and supreme legislative body of Pakistan.
+        It is a bicameral federal legislature that consists of the Senate as the upper house and the National Assembly,
+        as the lower house. Wikipedia
+        Leader of the House (National Assembly): Imran Khan; PTI; since 18 August 2018
+        National Assembly last election: 25 July 2018
+        Speaker of National Assembly: Asad Qaiser; PTI; since 15 August 2018
+        Leader of the House (Senate): Syed Shibli Faraz; PTI; since 26 August 2018
+        Senate voting system: Single Transferable Vote
+        Senate last election: 3 March 2018
+    </string>
+
+    <string name="bhutan_text">
+        Bhutan, a Buddhist kingdom on the Himalayas’ eastern edge, is known for its monasteries, fortresses (or dzongs) and dramatic
+        landscapes that range from subtropical plains to steep mountains and valleys. In the High Himalayas, peaks such as 7,326m Jomolhari
+        are popular trekking destinations. Paro Taktsang monastery (also known as Tiger’s Nest) clings to cliffs above the forested Paro Valley.
+        Capital: Thimphu
+        Prime minister: Lotay Tshering
+        Population: 807,610 (2017) World Bank
+    </string>
+
+    <string name="nepal_text">
+        Nepal, officially the Federal Democratic Republic of Nepal, is a landlocked country in South Asia. It is located mainly in the Himalayas,
+        but also includes parts of the Indo-Gangetic Plain. With an estimated population of 26.4 million, it is 48th largest country by population
+        and 93rd largest country by area. Wikipedia
+        Prime minister: KP Sharma Oli Trending
+        Capital: Kathmandu
+        Area: 147,181 km²
+        Currency: Nepalese rupee
+        Points of interest: Swayambhunath,
+    </string>
+
+    <string name="srilanka_text">
+        Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia, located in the Indian Ocean to the southwest
+        of the Bay of Bengal and to the southeast of the Arabian Sea. Wikipedia
+        Capitals: Colombo, Sri Jayawardenepura Kotte
+        President: Maithripala Sirisena
+    </string>
+
+    <string name="maldives_text">
+        The Maldives is a tropical nation in the Indian Ocean composed of 26 ring-shaped atolls, which are made up of more than 1,000 coral islands. It’s known for its beaches,
+        blue lagoons and extensive reefs. The capital, Malé, has a busy fish market, restaurants and shops on the main road, Majeedhee Magu, and 17th-century Hukuru Miskiy
+        (also known as Friday Mosque) made of carved white coral.
+        Capital: Male
+        Currency: Maldivian rufiyaa
+        Population: 436,330 (2017) World Bank.
+    </string>
+
+    <string name="afghanistan_text">
+        Afghanistan, officially the Islamic Republic of Afghanistan, is a landlocked country located in South-Central Asia. Afghanistan is bordered by Pakistan in the south and east;
+        Iran in the west; Turkmenistan, Uzbekistan, and Tajikistan in the north; and in the far northeast, China. Wikipedia
+        Capital: Kabul
+        Recognised regional languages: Uzbek, Turkmen, Balochi, Pashai, Nuristani, Pamiri
+        Currency: Afghan afghani
+        Points of interest: Minaret of Jam, Band-e Amir National Park, MORE
+        Official languages: Pashto, Dari
+    </string>
+</resources>

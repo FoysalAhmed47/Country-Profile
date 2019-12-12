@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#5E7A78"
+    android:gravity="center"
+    tools:context="com.example.countryprofile.MainActivity">
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:src="@drawable/wworld1"
+            android:id="@+id/imageViewId"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:scaleType="fitXY"
+            />
+        <AutoCompleteTextView
+            android:hint="Enter Your Country Name"
+            android:textColorHint="#1BE6D3"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:id="@+id/autoTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <Button
+        android:id="@+id/bangladeshButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bangladesh_button"
+        android:textColor="#1D1F1D"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/bang_icon"
+        />
+
+
+    <Button
+        android:id="@+id/indiaButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/india_button"
+        android:textColor="#2985E0"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/india"
+        />
+
+
+    <Button
+        android:id="@+id/pakistanButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pakistan_button"
+        android:textColor="#19AD19"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/pakistan"
+        />
+
+    <Button
+        android:id="@+id/bhutanButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bhutan_button"
+        android:textColor="#B69638"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/bhutan"
+        />
+
+    <Button
+        android:id="@+id/nepalButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nepal_button"
+        android:textColor="#F44336"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/nepal"
+        />
+
+        <Button
+            android:id="@+id/srilankaButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/srilanka_button"
+            android:textColor="#64110B"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:drawableLeft="@drawable/srilanka"
+            />
+
+        <Button
+            android:id="@+id/afghanistanButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/afghanistan_button"
+            android:textColor="#673AB7"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:drawableLeft="@drawable/afghanistan"
+            />
+
+        <Button
+            android:id="@+id/maldiveButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/maldives_button"
+            android:textColor="#2CC4B5"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:drawableLeft="@drawable/maldives"
+            />
+
+    </LinearLayout>
+</ScrollView>
